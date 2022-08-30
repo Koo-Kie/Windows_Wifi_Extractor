@@ -2,7 +2,7 @@
 Extracts saved wifi passwords using Python
 
 # Educational purposes only!
-## Don't be a script kiddie
+**Don't be a script kiddie**
 
 # Features:
 - Works with both English and French CMD's
@@ -17,5 +17,6 @@ Extracts saved wifi passwords using Python
 4) Run: py wifi_extractor.py
 
 If the machine you're running it on doesn't have python intsalled on you will have to compile wifi_extractor.py into a Windows executable.
-For doing that you can use: Pyinstaller or Nuitka
-[Pyinstaller Documentation](https://pyinstaller.org/en/stable/usage.html)
+For doing that you can use: Pyinstaller or Nuitka 
+- [Pyinstaller Documentation](https://pyinstaller.org/en/stable/usage.html)
+- [Nuitka Documentation](https://github.com/Nuitka/Nuitka)
