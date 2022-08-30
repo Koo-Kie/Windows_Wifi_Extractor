@@ -10,7 +10,7 @@ name = 'wifi.txt'
 # Enable sending to Discord webhook
 discord = True
 # Link of your Discord channel webhook
-webhook = 'https://discord.com/api/webhooks/1014127296065581157/g7qUOY96OumMNof9gT6VDhwz3qQaRRNzypWIcqAQCKnM17CsxOm9sbsMiydDqetCXKzz'
+webhook = ''
 # --------------------------------------
 
 data = []
